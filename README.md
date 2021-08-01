@@ -30,12 +30,6 @@ $ cd todo-v2
 $ npm i
 ```
 
-### Para iniciar a API fake
-```
-$ npm install -g json-server
-$ npm run api
-```
-
 ### Para iniciar um servidor de desenvolvimento
 ```
 $ npm run serve
