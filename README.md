@@ -1,4 +1,4 @@
-# Vue Tailwind Template
+# Todo v2
 
 Criei essa aplicação para ajudar a me organizar durante o trabalho, mas é claro que existem outros apps mais completos para isso, porém vou melhorando esse webApp conforme for necessitando de novas funcionalidades.
 
